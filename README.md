@@ -1,5 +1,5 @@
-FreeCodeCamp - Project
-<b>Personal Porfolio Site</b>
+FreeCodeCamp - Project<br>
+<strong>Personal Porfolio Site</strong><br>
 
 Built with strictly html and css.
 
